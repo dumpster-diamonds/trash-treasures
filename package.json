@@ -1,0 +1,19 @@
+{
+  "name": "trash-treasures",
+  "version": "0.1.0",
+  "description": "categorized finds from local 'trash nothing!' listings, as a service",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dumpster-diamonds/trash-treasures.git"
+  },
+  "author": "Eliran Malka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dumpster-diamonds/trash-treasures/issues"
+  },
+  "homepage": "https://github.com/dumpster-diamonds/trash-treasures#readme"
+}
