@@ -2,8 +2,10 @@
   "name": "trash-treasures",
   "version": "0.1.0",
   "description": "categorized finds from local 'trash nothing!' listings, as a service",
-  "main": "index.js",
+  "main": "api/ping/index.js",
   "scripts": {
+    "start": "micro",
+    "dev": "micro-dev",
     "test": "jest"
   },
   "repository": {
@@ -17,7 +19,8 @@
   },
   "homepage": "https://github.com/dumpster-diamonds/trash-treasures#readme",
   "dependencies": {
-    "micro": "^9.3.3"
+    "micro": "^9.3.3",
+    "now-micro": "^0.3.0"
   },
   "devDependencies": {
     "micro-dev": "^3.0.0"
