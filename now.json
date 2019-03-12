@@ -1,1 +1,9 @@
-{}
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/ping/index.js",
+      "use": "@now/node"
+    }
+  ]
+}
