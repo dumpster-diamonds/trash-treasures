@@ -1,1 +1,1 @@
-module.exports = (req, res) => 'pong!';
+module.exports = req => 'pong!';
