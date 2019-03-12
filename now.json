@@ -4,10 +4,6 @@
     {
       "src": "api/ping/index.js",
       "use": "now-micro"
-    },
-    {
-      "src": "api/ping/index.js",
-      "use": "@now/node"
     }
   ]
 }
