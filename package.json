@@ -2,7 +2,7 @@
   "name": "trash-treasures",
   "version": "0.1.0",
   "description": "categorized finds from local 'trash nothing!' listings, as a service",
-  "main": "api/ping/index.js",
+  "main": "index.js",
   "scripts": {
     "start": "micro",
     "dev": "micro-dev",
