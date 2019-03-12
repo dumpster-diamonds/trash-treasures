@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/dumpster-diamonds/trash-treasures/issues"
   },
-  "homepage": "https://github.com/dumpster-diamonds/trash-treasures#readme"
+  "homepage": "https://github.com/dumpster-diamonds/trash-treasures#readme",
+  "dependencies": {
+    "micro": "^9.3.3"
+  },
+  "devDependencies": {
+    "micro-dev": "^3.0.0"
+  }
 }
